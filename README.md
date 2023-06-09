@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/AbuzarKhan0099/AbuzarKhan0099/assets/123837033/b54990aa-9bf8-47d4-9960-323d9f8b448c)">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzarkhan0099&label=Profile%20views&color=0e75b6&style=flat" alt="abuzarkhan0099" /> </p>
 
