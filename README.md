@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: black;
-    }
-  </style>
-</head>
-<body>
-  <!-- Your HTML content goes here -->
   
-  
-  <h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
+<h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -49,6 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuzarkhan0099&" alt="abuzarkhan0099" /></p>
   
-  
-</body>
-</html>
