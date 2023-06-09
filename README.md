@@ -1,7 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black;
+    }
+  </style>
+</head>
+<body>
+  <!-- Your HTML content goes here -->
+  
+  
+  <h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzarkhan0099&label=Profile%20views&color=0e75b6&style=flat" alt="abuzarkhan0099" /> </p>
 
@@ -34,3 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzarkhan0099&show_icons=true&locale=en" alt="abuzarkhan0099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuzarkhan0099&" alt="abuzarkhan0099" /></p>
+  
+  
+</body>
+</html>
