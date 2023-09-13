@@ -1,5 +1,5 @@
   
-<h1 align="center">Hi 👋, I'm Abuzar Khan</h1>
+<h1 align="center">Hi 👋, I'm ABUZAR</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
